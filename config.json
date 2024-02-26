@@ -1,0 +1,6 @@
+{
+    "API_Mverse": "https://mverse-api.nexon.com/resource/v1/search",
+    "Input": "../data/input/input.txt",
+    "Equip_Output": "../data/output/equip.txt",
+    "Item_Output": "../data/output/item.txt"
+}
