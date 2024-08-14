@@ -1,0 +1,4 @@
+01040002		White Undershirt	islot=Ma,  vslot=Ma,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  incPDD=3,  tuc=7,  price=25,  cash=0  , 
+01312004		Hand Axe	islot=Wp,  vslot=Wp,  walk=1,  stand=1,  attack=1,  afterImage=swordOL,  sfx=swordL,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  incPAD=17,  tuc=7,  price=1,  attackSpeed=5,  cash=0  , 
+01072005		Leather Sandals	islot=So,  vslot=So,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  incPDD=2,  tuc=5,  price=1,  cash=0  , 
+01060002		Blue Jean Shorts	islot=Pn,  vslot=Pn,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  incPDD=2,  tuc=7,  price=25,  cash=0  , 

@@ -100,7 +100,8 @@ def run() -> None:
     file.write_list_to_file(config.get("Etc_Output"), headers[3])
 
     # Get a line of data where one match is one line
-    matches:list = re.findall(r'(\d+)\t+([^\t]+)\t([\s\S]+?)\t([^\n]+)', file_content, re.MULTILINE)
+    # (\d+)\t+([^\t]+)\t([\s\S]+?)\t([^\n]+)
+    matches:list = re.findall(r'(\d+)\t+([^\t]+)\t([^\n]+)', file_content, re.MULTILINE)
     
     for match in matches:
         match = list(match)

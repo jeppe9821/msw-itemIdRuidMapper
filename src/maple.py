@@ -56,6 +56,9 @@ def get_category(itemId:int) -> tuple:
 
     if itemId >= 1102000 and itemId <= 1102194:
         return (AVATAR_CATEGORY, Cape)
+    
+    if itemId >= 1112000 and itemId <= 1112904:
+        return (SPRITE_CATEGORY, Item) #Rings
 
     if itemId >= 1302000 and itemId <= 1702201:
         return (AVATAR_CATEGORY, OneHandedWeapon)

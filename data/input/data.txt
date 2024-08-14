@@ -894,6 +894,7 @@
 	01012129		Maple Leaf Paint  (Canada)	islot=Af,  vslot=Af,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  cash=1  , 
 	01012133			islot=Af,  vslot=Af,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  cash=1  , 
 	01012134		Tear Drop Face Tattoo	islot=Af,  vslot=Af,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  cash=1  , Express your soft side with this teary-eyed Tattoo!
+	
 	01020000		Aqua Toy Shades	islot=Ay,  vslot=Ay,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  cash=1  , 
 	01021000		Pink Toy Shades	islot=Ay,  vslot=Ay,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  cash=1  , 
 	01022000		Orange Shades	islot=Ay,  vslot=Ay,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  cash=1  , 
@@ -964,6 +965,7 @@
 	01022069		Orange Shutter Shades	islot=Ay,  vslot=Ay,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  cash=1  , 
 	01022071		Red Shutter Shades	islot=Ay,  vslot=Ay,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  cash=1  , 
 	01022073		Cracked Glasses	islot=Ay,  vslot=Ay,  reqJob=0,  reqLevel=0,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  cash=1  , 
+	
 	01032000		Weighted Earrings	islot=Ae,  vslot=Ae,  reqJob=0,  reqLevel=20,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  tuc=5,  price=5000,  cash=0  , 
 	01032001		Single Earring	islot=Ae,  vslot=Ae,  reqJob=0,  reqLevel=15,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  tuc=5,  price=3500,  cash=0  , 
 	01032002		Sapphire Earrings	islot=Ae,  vslot=Ae,  reqJob=0,  reqLevel=35,  reqSTR=0,  reqDEX=0,  reqINT=0,  reqLUK=0,  incMDD=15,  tuc=5,  price=27500,  cash=0  , 

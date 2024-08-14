@@ -1,0 +1,1 @@
+Id	Name	Description	IconRUID	effect.pos	effect.z	info.expireOnLogout	info.notSale	info.only	info.price	info.recoveryHP	info.recoveryMP	info.reqLevel	info.slotMax	info.timeLimited	info.tradeBlock
